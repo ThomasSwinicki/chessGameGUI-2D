@@ -9,6 +9,5 @@ public class Main {
 		//testing update from local eclipse edit - Trevor
 		System.out.println("hello world");
 	}
-	//fatal error
 
 }
