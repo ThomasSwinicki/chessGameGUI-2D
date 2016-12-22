@@ -8,6 +8,11 @@ public class Main {
 		//testing edits
 		//testing update from local eclipse edit - Trevor
 		System.out.println("hello world");
+		
+		ChessFrame cFrame = new ChessFrame();
+		cFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		cFrame.setSize(300, 300);
+		cFrame.setVisible(true);
 	}
 
 }
